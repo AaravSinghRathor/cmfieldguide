@@ -1,3 +1,5 @@
+# CM Field Guide
+
 This is the source code for the site and application CM Field Guide.
 
 The purpose of this application is to detect what platform a website is running on. The application is developed using Django web application framework and works by running "signatures", which are little Python scripts that test the site for various "tells".
